@@ -3,7 +3,7 @@
 <h2>The Adidas E-commerce mobile app enables users to browse and shop for a variety of sports apparel, including t-shirts, shoes, and pants. Users can add items to their favorites, remove them, add them to their shopping bag, edit their selections, remove items from the bag, and proceed to checkout.</h2>
 
 <h3>Front End</h3>
-<a href="https://github.com/mhdAlghazouli/adidas-client">Quacker-client</a>
+<a href="https://github.com/mhdAlghazouli/adidas-client">Adidas-client</a>
 <h3>Back End</h3>
 <ul>The back-end is built using the following technologies:</ul>
 
