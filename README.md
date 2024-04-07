@@ -20,7 +20,7 @@
 <li>Cors</li>
 
 <h3>Deployment</h3>
-<p>The application's backend is deployed at <a href="https://adidas-api.onrender.com">Adidas-api</a></p>
+<p>The application's backend is deployed at <a href="https://adidas-api.onrender.com">https://adidas-api.onrender.com</a></p>
 
 <h3>How to run the application locally?</h3>
 <ul>
