@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3000;
 const dataBaseURI = process.env.dataBaseURI;
 
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://adidas-api.onrender.com",
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   preflightContinue: false,
   optionsSuccessStatus: 204,
